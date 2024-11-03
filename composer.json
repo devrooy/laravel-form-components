@@ -1,5 +1,5 @@
 {
-    "name": "rooydev/laravel-form-components",
+    "name": "devrooy/laravel-form-components",
     "description": "Blade components to rapidly build forms with Tailwind CSS Custom Forms and Bootstrap 4.",
     "keywords": [
         "protonemedia",
